@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/DanHanDevOps/LAB06/_apis/build/status/dh4711.calculator?branchName=master)]
+[![Build Status](https://dev.azure.com/DanHanDevOps/LAB06/_apis/build/status/dh4711.calculator?branchName=master)](https://dev.azure.com/DanHanDevOps/LAB06/_build/latest?definitionId=11&branchName=master)
 
 Calculator.js: a node.js Demonstration Project
 ==============================================
